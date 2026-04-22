@@ -5,7 +5,7 @@ import Save from "./classes/Save";
 export const eternityChallenge = new Category({
     name: "Eternity Challenges",
     theme: "eternity",
-    desc: "EC1 - 13000 TT",
+    desc: "EC1 - 12900 TT",
     saves: [
         new Save({
             name: "1e16 EP/130 TT",

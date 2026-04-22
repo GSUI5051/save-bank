@@ -7,7 +7,7 @@ export const timeDilation = new CategoryGrouped({
     name: "Time Dilation",
     /* Suggested by kai reeeee */
     theme: "dilation",
-    desc: "13000 TT - Pre-Reality",
+    desc: "12900 TT - Pre-Reality",
     saves: [
         dilation,
         postE4k
